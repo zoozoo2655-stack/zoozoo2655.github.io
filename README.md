@@ -48,6 +48,6 @@ Plaintext
 儀表板 2: 客戶族群分布
 
 🤝 聯絡資訊
-作者: [你的名字]
+作者: 鄭合汶
 
-GitHub: @你的帳號
+GitHub: zoozoo2655.github.io
